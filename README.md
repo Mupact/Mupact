@@ -1,6 +1,6 @@
 # Eric Mugisha</a>'s Miscellaneous Project Portfolio 🔐
 
-I am passionate about working with technology and tackling complex challanges through hands-on projects to deliver versatile solutions. Anything that ranges from simple automation scrips to system analysis and network conectivity implementation, I'll never no stone unturned!
+I am passionate about working with technology and tackling complex challanges through hands-on projects to deliver versatile solutions. Anything that ranges from simple automation scrips to system analysis and network conectivity implementation, I'll leave no stone unturned!
 
 
 
